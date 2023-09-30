@@ -26,3 +26,10 @@ Currently, two official plugins are available:
 ## Command to intialize the tailwindcss configuration
 
 `pnpm tailwindcss init -p`
+
+## Command to add prettier-plugin for tailwindcss
+
+`pnpm install -D prettier prettier-plugin-tailwindcss`
+
+## Command to add react-router
+`pnpm add react-router`
